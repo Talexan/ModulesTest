@@ -1,0 +1,1 @@
+Module Magento 2 for studying CRUD  - "guinea pig" module Installation : composer require Talexan/module-testcrud

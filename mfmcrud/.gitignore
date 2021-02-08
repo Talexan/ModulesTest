@@ -1,0 +1,13 @@
+#--------------------------#
+# Test Module Files    #
+#--------------------------#
+
+/Waste/
+/Waste/**
+/Waste/*
+/Block/Error.php
+/view/frontend/layout/testcrud_index_error.xml
+/view/frontend/templates/images/
+/view/frontend/templates/images/*
+/view/frontend/templates/404.phtml
+/Controller/Index/Error.php
